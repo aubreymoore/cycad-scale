@@ -1,14 +1,19 @@
-# Biographical Sketch
-#### Aubrey Moore (<aubreymoore@triton.uog.edu>)<br>College of Natural and Applied Sciences, University of Guam
+<!--- pandoc biosketch.md -f gfm -o biosketch.pdf -V geometry:margin=0.5in -V linkcolor:blue --->
 
-**Professional Preparation**
+
+# Biographical Sketch
+## Aubrey Moore  (<aubreymoore@triton.uog.edu>)
+## College of Natural and Applied Sciences, University of Guam
+
+### Professional Preparation
+
 |||
 |:---|:---|
 |Ph.D: 1988|Entomology; University of Hawaii, Honolulu, HI|
 |M.S.: 1984|Entomology; Michigan State University, East Lansing, MI|
 |B.Sc.: 1979|Integrated Science Studies; Carleton University, Ottawa, Canada|
 
-**Appointments**
+### Appointments
 
 |||
 |:---|:---|
@@ -29,7 +34,7 @@
 1979-1981  |Res. Tech., Forest Pest Management Inst., Environment Canada, Sault Ste. Marie, ON
 1975-1979  |Res. Tech., Chemical Control Research Institute, Environment Canada, Ottawa, ON
 
-**Products Relevant to Proposal**
+### Products Relevant to Proposal
 
 Cave, R. D., J. T. Chao, B. Kumashiro, T. Marler, J. Miles, A. Moore, R. Muniappan, and G. W. Watson. “Status and Biological Control of Cycad *Aulacaspis* Scale.” Biocontrol News Inform 34, no. 1 (2013): 1N-4N.
 
