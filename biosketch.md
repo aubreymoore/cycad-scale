@@ -3,7 +3,6 @@
 
 **Professional Preparation**
 
-|a|b|
 |:---|:---|
 |Ph.D: 1988|Entomology; University of Hawaii, Honolulu, HI|
 |M.S.: 1984|Entomology; Michigan State University, East Lansing, MI|
