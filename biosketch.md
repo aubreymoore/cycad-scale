@@ -10,8 +10,8 @@
 
 **Appointments**
 
-||
-|:---|:---
+|||
+|:---|:---|
 2008-Pres.|Extension Entomologist, Cooperative Extension Service, University of Guam,Guam
 2003-2008 |Research Associate, College of Natural & Applied Sciences, University of Guam, Guam
 1999-2003 |Pesticide Evaluator, Pest Management Regulatory Agency, Health Canada, Ottawa, ON
