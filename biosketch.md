@@ -2,7 +2,7 @@
 #### Aubrey Moore (<aubreymoore@triton.uog.edu>)<br>College of Natural and Applied Sciences, University of Guam
 
 **Professional Preparation**
-
+|||
 |:---|:---|
 |Ph.D: 1988|Entomology; University of Hawaii, Honolulu, HI|
 |M.S.: 1984|Entomology; Michigan State University, East Lansing, MI|
