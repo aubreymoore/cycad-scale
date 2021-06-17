@@ -3,11 +3,11 @@
 
 **Professional Preparation**
 
-||
-|:---|:---
-Ph.D: 1988|Entomology; University of Hawaii, Honolulu, HI
-M.S.: 1984|Entomology; Michigan State University, East Lansing, MI
-B.S.: 1979|Integrated Science Studies; Carleton University, Ottawa, Canada
+|a|b|
+|:---|:---|
+|Ph.D: 1988|Entomology; University of Hawaii, Honolulu, HI|
+|M.S.: 1984|Entomology; Michigan State University, East Lansing, MI|
+|B.Sc.: 1979|Integrated Science Studies; Carleton University, Ottawa, Canada|
 
 **Appointments**
 
